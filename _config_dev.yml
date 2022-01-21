@@ -1,0 +1,45 @@
+# Site settings
+name: Arturo Reyes
+title: Arturo Reyes| Front End Software Developer
+description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+url: https://rs-arturo.github.io/
+baseurl: ''
+email: arturo-rs@outlook.com
+cover: https://rs-arturo.github.io/img/og.png
+logo: https://rs-arturo.github.io/img/emojis/technologist.png
+resume: https://rs-arturo.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto: arturo-rs@outlook.com
+  - title: twitter
+    url: https://twitter.com/eiIrahC
+  - title: instagram
+    url: https://instagram.com/eilrvhc
+  - title: codepen
+    url: http://codepen.io/bchiang7
+  - title: github
+    url: https://github.com/rs-arturo
+  - title: linkedin
+    url: https://www.linkedin.com/in/arturo-rs
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

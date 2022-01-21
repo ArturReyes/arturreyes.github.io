@@ -1,0 +1,22 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: TypeScript
+  - item: HTML
+  - item: CSS/Sass
+
+frameworks:
+  - item: React
+  - item: Jekyll
+  - item: Wordpress
+  - item: Timber
+
+tools:
+  - item: Git & Github
+  - item: Gulp & Grunt
+  - item: Chrome DevTools
+
+design:
+  - item: Sketch
+  - item: Adobe Xd
+  - item: Adobe Photoshop
+  - item: Adobe Illustrator
