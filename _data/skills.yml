@@ -5,14 +5,17 @@ languages:
   - item: CSS/Sass
 
 frameworks:
-  - item: React
+  - item: Bootsrap
   - item: Jekyll
-  - item: Wordpress
-  - item: Timber
+  - item: Gatsby
+  - item: Svelte
+   
 
 tools:
   - item: Git & Github
-  - item: Gulp & Grunt
+  - item: Wordpress
+  - item: Netlify
+  - item: Gulp
   - item: Chrome DevTools
 
 design:
