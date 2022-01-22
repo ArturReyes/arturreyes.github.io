@@ -116,8 +116,8 @@
    }
    body.night,
    html.night {
-    background-color:#0C0535;
-    color:#afafbf
+    background-color:#080328;
+    color:#e7e7e7
    }
    body.night ::-moz-selection,
    html.night ::-moz-selection {
