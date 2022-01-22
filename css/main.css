@@ -1031,7 +1031,7 @@
    }
    .footer__links a .text {
     font-size:.9rem;
-    display:inline;
+    display:none;
     letter-spacing:1px
    }
    @media screen and (max-width:850px) {
