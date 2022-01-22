@@ -9,17 +9,17 @@ cover: https://rs-arturo.github.io/img/og.png
 logo: https://rs-arturo.github.io/img/emojis/technologist.png
 resume: https://rs-arturo.github.io/resume.pdf
 social:
-  - title: email
+  - title: 
     url: mailto:arturo-rs@outlook.com
-  - title: twitter
+  - title:
     url: https://twitter.com/eiIrahC
-  - title: instagram
+  - title: 
     url: https://instagram.com/eilrvhc
-  - title: codepen
-    url: http://codepen.io/bchiang7
-  - title: github
+  - title:
+    url: https://codepen.io/rs-arturo
+  - title: 
     url: https://github.com/rs-arturo
-  - title: linkedin
+  - title: 
     url: https://www.linkedin.com/in/arturo-rs
 
 # Build settings
