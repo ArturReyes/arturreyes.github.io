@@ -1,7 +1,7 @@
 - name: Pokédex
   url: https://github.com/rs-arturo/pokedex
   code: https://github.com/rs-arturo/pokedex
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+  description: Built with HTML, CSS, & JavaScript (via many features such as utilization of third-party APIs, async, await, & promises).
   used:
     - thing: JavaScript
     - thing: CSS
