@@ -2,12 +2,12 @@
 name: Arturo Reyes
 title: Arturo Reyes| Front End Software Developer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://arturreyes.github.io/
+url: arturoreyes.me
 baseurl: ''
 email: rs.arturo@icloud.com
-cover: https://arturreyes.github.io/img/og.png
-logo: https://arturreyes.github.io/img/emojis/technologist.png
-resume: https://arturreyes.github.io/resume.pdf
+cover: //arturreyes.github.io/img/og.png
+logo: //arturreyes.github.io/img/emojis/technologist.png
+resume: //arturreyes.github.io/resume.pdf
 social:
   - title: email
     url: mailto: rs.arturo@icloud.com
