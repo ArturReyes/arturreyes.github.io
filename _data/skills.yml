@@ -13,7 +13,7 @@ frameworks:
 
 tools:
   - item: Git & Github
-  - item: Wordpress
+  - item: SEO
   - item: Netlify
   - item: Gulp
   - item: Chrome DevTools
