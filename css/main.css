@@ -947,8 +947,8 @@
     }
    }
    .footer__copyright {
-    font-weight:700;
-    width:200px
+    font-weight:200;
+    width:500px
    }
    @media screen and (max-width:630px) {
     .footer__copyright {
