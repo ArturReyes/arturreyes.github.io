@@ -12,9 +12,10 @@ frameworks:
    
 
 tools:
-  - item: Git & Github
+  - item: Git
   - item: SEO
-  - item: Netlify
+  - item: Wordpress
+  - item: Elementor
   - item: Gulp
   - item: Chrome DevTools
 
